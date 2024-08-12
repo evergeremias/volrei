@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #0A1128;
+    --white-color: #FFFFFF;
+    --gap: 3rem;
+    --light-gray-color: #000000;
+    --secondary-color: rgb(127, 4, 131);
+}
+.b3-bg {
+    background-color: #8721b6; /* Exemplo de cor de fundo */
+}
